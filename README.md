@@ -49,7 +49,7 @@ The Telephone Directory CLI Application is a simple and user-friendly command-li
     3. Implement your changes.
     4. Submit a pull request.
 
-# SnapShots
+# Snapshots
 
 ![1](https://github.com/Nehal04052/Telephone-directory/assets/126107576/058651cc-9ac6-4b8c-8767-7ee9e63788fc)
 ![2](https://github.com/Nehal04052/Telephone-directory/assets/126107576/1b2fbfdd-c095-460f-b799-541dfe603084)
