@@ -24,9 +24,9 @@ The Telephone Directory CLI Application is a simple and user-friendly command-li
     
 # Follow the on-screen prompts to interact with the telephone directory.
 
-# Usage :-
+  Usage :-
 
-# Choose options from the menu to perform various operations:
+    Choose options from the menu to perform various operations:
 
     Option 1: Display Contacts
     View the list of all contacts in the telephone directory.
