@@ -17,12 +17,12 @@ int main()
     strcpy(sp[1].name,"AJAY");strcpy(sp[1].num,"6377834657");strcpy(sp[1].mail,"ajay@gmail.com");i++;
     strcpy(sp[2].name,"ARUL");strcpy(sp[2].num,"6746786567");strcpy(sp[2].mail,"arul@gmail.com");i++;
     strcpy(sp[3].name,"ASWIN");strcpy(sp[3].num,"2983983893");strcpy(sp[3].mail,"aswin@gmail.com");i++;
-    strcpy(sp[4].name,"BOOPESH");strcpy(sp[4].num,"3675576754");strcpy(sp[4].mail,"boopesh@gmail.com");i++;
+    strcpy(sp[4].name,"Chirag");strcpy(sp[4].num,"3675576754");strcpy(sp[4].mail,"chirag@gmail.com");i++;
     strcpy(sp[5].name,"DHANUSH");strcpy(sp[5].num,"6752348972");strcpy(sp[5].mail,"dhanush@gmail.com");
     i++;
    while(a==1)
       {
-          printf("1--->DISPLAY CONTACTS\n2--->DELETING CONTACTS\n3--->ADDING CONTACTS\n4--->FINDING CONTACTS");
+          printf("1--->DISPLAY CONTACTS\n2--->DELETE CONTACTS\n3--->ADD CONTACTS\n4--->FIND CONTACTS");
    printf("\nENTER YOUR CHOICE:");
    
       scanf("%d",&choice);
