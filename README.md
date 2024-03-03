@@ -40,17 +40,18 @@ The Telephone Directory CLI Application is a simple and user-friendly command-li
     Option 4: Finding Contacts
     Search for contacts by RegNO.
     
-# Follow the on-screen prompts and provide the required information to execute your selected operation.
+  Follow the on-screen prompts and provide the required information to execute your selected operation.
 
-# Contributing
-  If you'd like to contribute to the Telephone Directory CLI Application, follow these steps:
+# If you'd like to contribute to the Telephone Directory CLI Application, follow these steps:
 
-    Fork the repository.
-    Create a new branch for your feature or improvement.
-    Implement your changes.
-    Submit a pull request.
+    1. Fork the repository.
+    2. Create a new branch for your feature or improvement.
+    3. Implement your changes.
+    4. Submit a pull request.
 
 # SnapShots
 
-
-
+![1](https://github.com/Nehal04052/Telephone-directory/assets/126107576/058651cc-9ac6-4b8c-8767-7ee9e63788fc)
+![2](https://github.com/Nehal04052/Telephone-directory/assets/126107576/1b2fbfdd-c095-460f-b799-541dfe603084)
+![3](https://github.com/Nehal04052/Telephone-directory/assets/126107576/a1b4df75-f0ac-4e74-b45d-8d02cde980d9)
+![4](https://github.com/Nehal04052/Telephone-directory/assets/126107576/1c71d385-0438-49b6-97b3-877068c055a6)
